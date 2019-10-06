@@ -1,0 +1,301 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+
+body{ margin:0px; padding:0px; background-color:#EFEFEF;font-family: 'Roboto Condensed', sans-serif; font-size:14px;}
+#h{ width: 100%; height:100vh; z-index: ; background: #fff url("../img/Gear-1s-200px.gif") no-repeat center}
+.container{width:1024px; height:auto; margin:0px auto}
+.upper{float:left;width:100%;height:40px; background-color:#000000;}
+.upper1{float:left;width:1024px;height:40px;}
+.upper11{ float:left;width:100px;height:40px; background-color:#ff6600;font-size:14px;}
+.u11 a{color:#FFFFFF;text-decoration:none;width:100px; height:auto;background-color:#0066cc;display:block;padding:12px 0px 18px 0px; text-align:center}
+.u11 a:hover{background-color:#ff6600}
+
+.u12{float:left;width:904px;height:auto;text-align:right; padding:12px 20px 15px 0px;font-size:14px;color:#FFFFFF}
+.u12 a{color:#FFFFFF;text-decoration:none}
+.u12 a:hover{text-decoration:underline}
+
+
+.heading{float:left; width:100%; height:100px; background-color:#EFEFEF}
+.h{ float:left; width:1024px; height:100px;}
+.h1{ float:left; width:280px; height:100px; background-image:url(../img/logo.png)}
+.h2{float:left;width:704px; height:100px; margin:0px 0px 0px 40px}
+.h21 {float:left; width:704px; height:32px; margin:10px 0px 0px 0px}
+
+.h221p{float:left;width:42px;height:42px; background-image:url(../img/phone-icon.jpg)}
+.h222pt{float:left;width:200px;height:42px; padding:10px 0px 0px 5px; font-size:16px}
+.h221s{float:left;width:42px;height:42px; background-image:url(../img/skype-icon.jpg); margin:0px 0px 0px 5px}
+.h221m{float:left;width:42px;height:42px; background-image:url(../img/post-requirement-icon.jpg)}
+.h222{float:left;width:175px;height:42px; padding:10px 0px 0px 5px; font-size:16px}
+.h222 a{color:#333333;text-decoration:none}
+.h222 a:hover{ text-decoration:underline}
+
+.h3{ float:left; width:704px; height:33px; text-align:right; padding:25px 0px 0px 0px; font-size:16px}
+.h3 a{color:#333333;text-decoration:none}
+.h3 a:hover{ text-decoration:underline}
+
+.tc{ color:#FF0000;}
+
+.main{float:left;width:100%;height:430px; background-image:url(../img/banner-bg.jpg);}
+.m1{ float:left;width:612px; height:430px}
+.m11 { float:left; width:612px; height:auto; color:#FF6633; font-size:24px; padding:30px 0px 0px 0px; font-weight:500 }
+.m12 { float:left; width:542px; height: auto; color:#999999; padding:10px 70px 0px 0px; }
+.points{ float:left; width:612px; height:15px; color:#FFFFFF; padding:0px 0px 15px 0px; font-weight: 500}
+.m31{ float:left; width:582px; height:15px; padding:0px 0px 0px 10px; font-size:14px}
+.tickmark { float:left; width:20px; height:15px; background-image:url(../img/last-tick.png); }
+
+
+.con {float:left; width:100%; height:auto; background-color:#EFEFEF; padding:0px 0px 50px 0px}
+.conp1 {float:left; width:1024px; height:55px;padding:15px 0px 0px 10px; font-size:33px; font-weight:600; color:#000000;}
+.conp2 {float:left; width:1024px; height:65px; background-color:#EFEFEF; font-size:18px; color:#FFFFFF;}
+.conp21 {float:left; width:317px; height:37px; background-color:#FF6600; padding:13px 0px 0px 10px;margin: 0px 20px 0px 0px; }
+.conp22 {float:left; width:317px; height:37px; background-color:#3333FF;padding:13px 0px 0px 10px; margin: 0px 20px 0px 0px;}
+.conp23 {float:left; width:315px; height:37px; background-color:#33FF33;padding:13px 0px 0px 10px}
+.conp3  {float:left; width:1024px; height:370px;}
+.con31 {float:left; width:330px; height:350px; font-size:14px; margin:5px 0px 0px 0px; color:#0066FF}
+.con311 {float:left; width:340px; height:30px;}
+.con3111 {float:left; width:310px; height:30px; margin: 0px 0px 0px 10px}
+
+.con32{float:left; width:684px; height:360px ;}
+.con321{float:left; width:684px; height:180px;}
+.con3211{float:left; width:350px; height:170px; }
+.con32111{float:left; width:310px; height:50px; padding:0px 0px 0px 10px}
+.conc1{float:left;  width:280px; height:auto; padding:5px 0px 0px 5px;}
+.conc2{ float:left; width:280px; height:30px; padding:0px 0px 10px 5px}
+.conc3{ float:left; width:280px; height:40px; padding:10px 0px 0px 5px}
+.tick1{float:left; width:20px; height:15px; background-image:url(../img/last-tick.png); margin:10px 0px 0px 5px}
+.tick2{float:left; width:20px; height:15px; background-image:url(../img/last-tick.png); margin:5px 0px 0px 5px}
+
+
+.con3212{float:left; width:324px; height:180px; font-size:12px}
+.con32121{float:left; width:140px; height:100px; background-image:url(../img/testimonials-icon.jpg); margin:0px 0px 0px 10px}
+.con32122{float:left; width:165px; height:180px; padding:0px 0px 0px 5px}
+.con322{float:left; width:684px; height:180px; background-image:url(../img/bg-image4.png)}
+
+.content5{float:left; width:100%; height:400px; background-image:url(../img/web-designing-bg%202.jpg);}
+.content51{float:left; width:604px; height:400px; color:#FFFFFF;padding:0px 10px 0px 10px;}
+.content511{float:left; width:614px; height:20px; font-size:24px; font-weight:200;  padding:0px 0px 30px 0px;	}
+.content512{float:left; width:604px; height:330px; color:#333333; font-size:14px; color:#FFFFFF;font-weight:300; padding:10px 10px 0px 0px}
+.content52{float:left; width:400px; height:380px; background-image:url(../img/pancil-img.png); margin:30px 0px 0px 0px;}
+
+.context1{float:left; width:100%; height:450px; background-color:#EFEFEF; color:#000000;}
+.conmain{ float:left; width:1024px; height:430px;}
+.ct1{float:left; width:400px; height:450px; background-image:url(../img/puzzle-img.png)}
+.ct2{float:left; width:624px; height:450px;}
+.ct21{float:left; width:609px; height:50px; font-size:28px; font-weight:300; padding:25px 0px 0px 10px;}
+.ct22{float:left; width:599px; height:380px; font-size:14px; font-weight:200;padding:0px 10px 0px 15px;}
+
+.context2{float:left; width:100%; height:450px;background-image:url(../img/seo-services-bg.jpg);margin:0px 10px 25px 0px}
+.conmain2{ float:left; width:1024px; height:430px;padding:0px 10px 0px 10px; font-size:16px}
+.context21{float:left; width:500px; height:auto; font-size:28px;font-weight:200; color:#FFFFFF; padding:15px 0px 0px 0px}
+.context212{float:left; width:600px; height:340px; font-size:14px; font-weight:300}
+
+.tmain{ float:left; width:100%; height:200px; background-color:#1D4FA6; margin:0px 0px 25px 0px}
+.t{float:left; width:1024px; height:200px;}
+.footer{float:left; width:1024px; height:177px; background-color:#1D4FA6; color:#FFFFFF; font-size:14px; font-weight:400; padding:23px 0px 0px 0px}
+.footer1{float:left; width:250px; height:200px; font-size:14px; font-family:Arial, Helvetica, sans-serif; line-height:12px}
+.f1{float:left; width:240px; height:auto; font-size:20px; font-weight:200; padding:15px 0px 10px 10px}
+.f12{float:left; width:240px; height:200px; padding:0px 0px 0px 10px}
+.footer2{float:left; width:250px; height:200px; font-size:14px; font-family:Arial, Helvetica, sans-serif; line-height:12px}
+.footer3{float:left; width:250px; height:200px; font-size:14px; font-family:Arial, Helvetica, sans-serif; line-height:12px}
+
+
+.mainlast{ float:left; width:100%; height:200px;background-color:#333333}
+.last1{float:left; width:100%; height:200px; color:#CCCCCC ; font-size:14px}
+.last12{float:left; width:1024px; height:40px; margin:10px 0px 0px 0px}
+.last121{float:left; width:664px; height:45px; font-size:14px; font-weight:300; margin:5px 0px 0px 10px}
+.last121 a{color:#CCCCCC;text-decoration:none}
+.last122{float:left; width:350px; height:30px;}
+.last1221{float:left; width:170px; height:26px; margin:6px 0px 0px 0px; color:#CCCCCC}
+.last1222{float:left; width:170px; height:30px;}
+.last12221{float:left; width:30px; height:30px; background-image:url(../img/facebook-icon.jpg)}
+.last12222{float:left; width:30px; height:30px; background-image:url(../img/google-blogger-icon.jpg); margin:0px 5px 0px 5px}
+.last12223{float:left; width:30px; height:30px; background-image:url(../img/linkedin-icon.jpg)}
+.last12224{float:left; width:30px; height:30px; background-image:url(../img/stumble-upon-icon.jpg);margin:0px 5px 0px 5px}
+.last12225{float:left; width:30px; height:30px; background-image:url(../img/twitter-icon.jpg)}
+.last13{float:left; width:1014px; height:40px; margin: 10px 0px 0px 10px; border-bottom:1px solid #999999; color:#CCCCCC}
+.last14{float:left; width:1014px; height:40px; margin: 10px 0px 0px 10px; border-bottom:1px solid #999999; padding:10px 0px 0px 0px}
+.last14 a{text-decoration:none; color:#CCCCCC}
+.last15{float:left; width:1014px; height:40px; margin:10px 0px 0px 10px; color:#CCCCCC}
+
+
+.payment{float:left; width:100%; height:600px; border-bottom:1px solid #ffffff;background-color:#EFEFEF}
+.pay1{float:left; width:700px; height:600px;}
+.pay12{float:left; width:600px; height:300px;}
+.pay121{float:left; width:585px; height:45px; font-size:30px; font-weight:600; padding:15px 0px 0px 15px; }
+.pay122{float:left ; width:585px; height:225px;  font-weight:500; padding: 15px 0px 0px 15px}
+.p1{float:left; width:600px; height:40px; font-weight:500; }
+.p12{float:left; width:575px; height:40px; padding:0px 0px 0px 5px; color:#3366FF}
+.payp2{float:left; width:320px; height:600px;}
+
+
+.header3{float:left; width:100%; height:430px;font-size:14px; background-image:url(../img/banner-bg.jpg); font-weight:600}
+.header31{ float:left;width:612px; height:auto;}
+.header311{ float:left; width:602px; height:auto; color:#FF8000; font-size:24px; font-weight:100; padding:10px 0px 0px 10px;}
+.header312 { float:left; width:582px; height:auto; color:#999999; font-size:18px; font-weight:400;padding:20px 20px 20px 10px;}
+.header313{ float:left; width:612px; height:auto; color:#CCCCCC; font-weight:500;}
+.header3131 {float:left;width:602px; height:auto; padding: 10px 0px 0px 10px; font-size:16px}
+.tickmark { float:left; width:20px; height:15px; background-image:url(../img/last-tick.png);}
+.header31311 { float:left; width:572px;height:auto;margin:0px 0px 0px 10px}
+.header32 { float:left;width:412px; height:500px;}
+
+.techback{float:left; width:600px; height:500px; border-bottom:1px solid #999999}
+.tb1{float:left; width:570px; height:70px; font-size:24px; padding:30px 0px 0px 30px; color:#FF6600} 
+.tb2{float:left; width:600px; height:370px; color:#FFFFFF; font-weight:500; padding:0px 0px 0px 30px}
+.tb21{float:left; width:600px; height:40px;}
+.tb211{float:left; width:575px; height:40px; padding:0px 0px 0px 5px}
+
+.tech{float:left; width:100%; height:600px;}
+.t1{ float:left; width:685px; height:585px; font-size:34px; font-weight:600; padding: 15px 0px 0px 15px}
+.t2{ float:left; width:324px; height:600px;}
+
+.whyprofile{ float:left; width:100%; height:auto; background-color:#EFEFEF}
+.w1 {float:left; width:685px; height:585px; font-size:34px; font-weight:600; padding: 15px 0px 0px 15px; border-bottom:1px #000000}
+.w2 {float:left; width:290px; height:auto;border-bottom:1px #000000}
+.w3{ float:left; width:290px; height:auto;}
+.wheadings{ float:left; width:270px; height:40px; background-color:#679B08; border-bottom:3px #447700 solid	; margin:20px 0px 0px 0px; font-size:20px; color:#FFFFFF; padding:15px 0px 0px 10px}
+.wheading2 { float:left; width:280px; height:auto; background-color:#DDD7D7; padding:10px 0px 10px 0px}
+.button { width:90px ; height:40px; background-color:#679B08; color:#FFFFFF; border-bottom:3px #447700 solid}
+.tabel1 { padding:0px 0px 0px 10px}
+.size1 { height:20px; width:150px}
+.subjectarea{ width:170px; height:60px}
+
+
+.myclick{ float:left;width:100%; height:auto;  font-size:14px; font-weight:600;padding:0px 0px 60px 0px; border-bottom:2px #333333 thin}
+.mclick1{ float:left;width:700px; height:auto;}
+.mclick12{ float:left;width:680px; height:60px; font-size:30px; font-weight:600; padding:20px 0px 0px 0px}
+.mclick13{ float:left;width:700px; height:auto;}
+.mclick131{ float:left; width:350px; height:auto;}
+.cl111{ float:left; width:700px; height:30px; font-weight:600}
+.mc1{  float:left; width:350px; height:auto;}
+.mcextra{ float:left; width:350px; height:30px; font-size:16px; color:#FF6600}
+.mc112{ float:left; width:320px; height:auto; padding:0px 0px 12px 10px; font-size:14;color:#3333CC}
+.mc112 a{color:#000000;text-decoration:none}
+.mc2{  float:left; width:350px; height:auto;}
+
+.mc3{  float:left; width:350px; height:auto;}
+.mc4{  float:left; width:350px; height:auto;}
+.mclick132{ float:left; width:350px; height:auto;}
+.mc21{float:left; width:350px; height:auto;}
+.mc22{float:left; width:350px; height:auto;}
+.mc23{float:left; width:350px; height:auto;}
+.mc24{float:left; width:350px; height:auto;}
+.mclick2{ float:left; width:324px; height:auto;}
+
+.clients{float:left; width:100%; height:900px; background-color:#EFEFEF; }
+.cl1{float:left; width:700px; height:900px; border-bottom:3px #666666 solid; padding:0px 0px 80px 0px}
+.cl11 { float:left; width:700px; height:auto; font-size:30px; font-weight:600; padding:15px 0px 10px 0px;}
+.cl111{ float:left; width:700px; height:auto; padding:0px 0px 20px 0px;}
+.cl12 { float:left; width:700px; height:auto;}
+.cl121 { float:left; width:350px; height:auto; padding:0px 0px 20px 0px}
+.cl122 { float:left; width:350px; height:auto;}
+.cl2{float:left; width:324px; height:800px;}
+
+.cprofile{float:left; width:100%; height:600px;}
+.cp1{float:left; width:700px; height:600px;font-weight:700}
+.cp12{float:left; width:690px; height:85px; padding: 15px 0px 0px 10px; font-size:32px; font-weight:500; border-bottom:1px solid #999999}
+.cp13{float:left; width:690px; height:85px; padding: 15px 0px 0px 10px; font-size:30px; font-weight:500;border-bottom:1px solid #999999}
+.cp14{float:left; width:690px; height:85px; margin:10px 0px 10px 0px;   padding: 15px 0px 0px 10px; font-size:30px; font-weight:500;border-bottom:1px solid #999999}
+.cp15 {float:left; width:700px; height:300px; }
+.cp2 {float:left; width:324px; height:600px;}
+
+.plans1{ float:left; width:100%; height:1340px;}
+.plans11{ float:left; width:750px; height:1340px;}
+.plans111{ float:left; width:750px; height:40px; padding:10px 0px 0px 0px; color:#0066CC; font-weight:600; font-size:18px}
+.plans111 a{color:#0066CC;text-decoration:none}
+.plans111 a:hover{ text-decoration:underline}
+.plans112{ float:left; width:740px; height:40px; font-size:34px; padding:10px 0px 10px 0px;}
+.plans113 { float:left; width:695px; height:1200px;   border-bottom:4px solid #999999; border-left:4px solid #999999; border-right:2px solid #999999; border-top:4px solid #999999; font-size:14px} 
+.p1131{ float:left; width:694px; height:40px;}
+.pa31{ float:left; width:255px; height:25px; margin:1px 1px 1px 1px;  border-bottom:4px solid #999999; border-left:4px solid #999999; border-right:4px solid #999999; border-top:4px solid #999999;background-color:#0066FF; color:#FFFFFF; padding:5px 0px 0px 5px }
+.pa32{ float:left; width:95px; height:25px;border-bottom:4px solid #999999; border-left:4px solid #999999; border-right:4px solid #999999; border-top:4px solid #999999;background-color:#0066FF; margin:1px 1px 1px 1px; padding:5px 0px 0px 0px; color:#FFFFFF}
+.pa33{ float:left; width:95px; height:25px;border-bottom:4px solid #999999; border-left:4px solid #999999; border-right:4px solid #999999; border-top:4px solid #999999;background-color:#0066FF; margin:1px 1px 1px 1px;padding:5px 0px 0px 0px; color:#FFFFFF}
+.pa34{ float:left; width:95px; height:25px;border-bottom:4px solid #999999; border-left:4px solid #999999; border-right:4px solid #999999; border-top:4px solid #999999;background-color:#0066FF; margin:1px 1px 1px 1px;padding:5px 0px 0px 0px; color:#FFFFFF}
+.pa35{ float:left; width:99px; height:25px;border-bottom:4px solid #999999; border-left:4px solid #999999; border-right:4px solid #999999; border-top:4px solid #999999;background-color:#0066FF; margin:1px 1px 1px 1px;padding:5px 0px 0px 0px;color:#FFFFFF}
+
+.allplans1{float:left; width:255px; height:25px; margin:1px 1px 1px 1px;  border-bottom:4px solid #999999; border-left:4px solid #999999; border-right:4px solid #999999; border-top:4px solid #999999; color:#FF6600; font-size: 16px  ; padding:5px 0px 0px 5px}
+.allplans2{ float:left; width:95px; height:25px;border-bottom:4px solid #999999; border-left:4px solid #999999; border-right:4px solid #999999; border-top:4px solid #999999; margin:1px 1px 1px 1px;padding:5px 0px 0px 0px}
+.allplans3{ float:left; width:95px; height:25px;border-bottom:4px solid #999999; border-left:4px solid #999999; border-right:4px solid #999999; border-top:4px solid #999999; margin:1px 1px 1px 1px;padding:5px 0px 0px 0px}
+.allplans4{ float:left; width:95px; height:25px;border-bottom:4px solid #999999; border-left:4px solid #999999; border-right:4px solid #999999; border-top:4px solid #999999; margin:1px 1px 1px 1px;padding:5px 0px 0px 0px}
+.allplans5{ float:left; width:99px; height:25px;border-bottom:4px solid #999999; border-left:4px solid #999999; border-right:4px solid #999999; border-top:4px solid #999999; margin:1px 1px 1px 1px;padding:5px 0px 0px 0px}
+
+.pheadings{ float:left; width:683px; height:25px;border-bottom:4px solid #999999; border-left:4px solid #999999; border-right:4px solid #999999; border-top:4px solid #999999; margin:1px 1px 1px 1px;padding:5px 0px 0px 0px;background-color:#0066FF; color:#FFFFFF }
+
+.plans12{ float:left; width:274px; height:1310px}
+
+.webd{float:left; width: 100%; height:1700px; font-size:14px; font-weight:500;}
+.webd1{float:left; width:700px; height:1700px;} 
+.webd11{float:left; width:700px; height:auto;}
+.webd111 { float:left; width:700px; height:auto; padding:20px 0px 0px 0px; font-size:34px;}
+.wedheading12{ float:left; width:700px; height:auto; padding:0px 0px 15px 0px; font-size:34px;}
+.webd112 {float:left; width:680px; height:auto; padding:0px 20px 0px 0px; margin:0px 0px 20px 0px}
+.webd12{float:left; width:700px; height:auto;}
+.webd121 { float:left; width:700px; height:auto;}
+.webd1211{ float:left; width:700px; height:auto; font-size:30px;}
+.webd1212{ float:left; width:680px; height:auto; padding:0px 20px 0px 0px}
+.webd122 { float:left; width:700px; height:auto; margin:0px 0px 20px 0px}
+.webd1221 { float:left; width:700px; height:auto; font-size:24px; color:#0066FF; padding:0px 0px 20px 0px; font-weight:bold}
+.webheading{ float:left; width:700px; height:auto;font-size:24px; color:#0066FF; padding:0px 0px 30px 0px;font-weight:bold }
+.webd1222 { float:left; width:700px; height:auto}
+.webdcol{ float:left; width:680px; height:auto; padding:0px 0px 20px 10px}
+.dot { float:left; width:10px; height:10px; margin:4px 0px 0px 0px; background-image:url(../img/dot-images.png)}
+.webd123 { float:left; width:700px; height:auto;border-bottom:1px solid #999999}
+.webd1231 { float:left; width:700px; height:auto;}
+.webd1232 { float:left; width:690px; height:270px; padding-right:10px}
+.webd2{float:left; width:324px; height:1100px;}
+
+.ss{float:left; width:100%; height:auto; font-size:16px; margin:0px 0px 100px 0px}
+.ss1{float:left; width:700px; height:auto;margin:0px 0px 100px 0px}
+.ss11{float:left; width:700px; height:auto; font-size:14px}
+.ss111{ float:left; width:700px; height:auto;}
+.ssa1 {float:left; width:700px; height:auto; font-size:32px; padding:10px 0px 0px 0px}
+.ssw1221 { float:left; width:700px; height:auto; font-size:24px; color:#0066FF; padding:0px 0px 0px 0px; font-weight:bold}
+.ssw12212 { float:left; width:700px; height:auto; font-size:24px; color:#0066FF; padding:0px 0px 15px 0px; font-weight:bold}
+.ssa2 {float:left; width:680px; height:auto; padding:0px 20px 0px 0px}
+.ss112{ float:left; width:700px; height:auto;}
+.ss1121{ float:left; width:700px; height:auto;}
+.ss113{ float:left; width:700px; height:auto;}
+.ss1131{ float:left; width:685px; height:auto; padding:0px 15px 0px 0px}
+.ss114{ float:left; width:700px; height:auto; border-bottom:1px solid #999999}
+.ss1141 { float:left; width:685px; height:auto; padding:0px 15px 0px 0px}
+
+.ss12{float:left; width:700px; height:auto;}
+.ss121{ float:left; width:700px; height:auto;}
+.ss1211{ float:left; width:685px; height:auto; padding:0px 15px 0px 0px}
+
+.ss2{float:left; width:324px; height:auto;}
+
+.port{ float:left; width:100%; height:auto;}
+.port1{ float:left; width:744px; height:auto;}
+.port11{ float:left; width:744px; height:auto; font-size:34px; padding:10px 0px 10px 0px}
+.port12{ float:left; width:744px; height:auto;}
+.port121{ float:left; width:744px; height:auto;}
+.pr1 { float:left; width:152px; height:182px; border-bottom:4px solid #999999; border-left:4px solid #999999; border-right:4px solid #999999; border-top:4px solid #999999; margin:1px 20px 20px 1px}
+.port2 { float:left; width:280px; height:auto}
+.port21 { float:left; width:280px; height:400px;} 
+.port22 { float:left; width:280px; height:auto; color:#679B08; font-size:30px; padding:15px 0px 10px 0px}
+.port23{ float:left; width:280px; height:120px; background-image:url(../img/testimonials.jpg)}
+
+.deshire{ float:left; width:100%; height:auto;}
+.deshire1{ float:left; width:724px; height:auto;}
+.deshire11 { float:left; width:724px; height:auto; padding:20px 0px 20px 0px; font-size:36px}
+.deshire12{ float:left; width:714px; height:auto; font-size:14px; font-weight:500; padding:0px 10px 0px 0px; border-bottom:4px solid #999999}
+.deshire13{ float:left; width:724px; height:auto; font-size:26px; padding:20px 0px 20px 0px ;font-weight:bolder;border-bottom:4px solid #999999}
+.deshire2{ float:left; width:300px; height:auto;}
+.progress-bar {
+    height: 8px;
+    background: #4caf50;
+    width: 0%;
+  }
+  
+.progress-container {
+    width: 100%;
+    height: 8px;
+    background: #ccc; position: fixed
+  }
+  
+
+
+
